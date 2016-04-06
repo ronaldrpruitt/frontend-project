@@ -1,0 +1,53 @@
+
+body {
+  text-align: center;
+}
+
+h1 {
+  font-family:georgia, serif;
+	color:#381704;
+	font-size:45px;
+	letter-spacing:0.1em;
+	line-height:200%;
+	padding-top:11px;
+}
+
+.quoteBox {
+  font-family:georgia, serif;
+	color:#3B200F;
+	font-size:16px;
+	font-weight:bold;
+	line-height:125%;
+	text-align:center; 
+  padding: 25px;
+  margin: 5px, 20px, 0px, 20px;
+}
+
+#quote {
+  font-family:georgia,serif;
+	color:#381704;
+	font-size:12px;
+	font-weight:normal;
+	line-height:150%;
+	padding:0px;
+}
+
+button {
+  -webkit-border-radius: 6;
+  -moz-border-radius: 6;
+  outline:none;
+  border-radius: 6px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 15px;
+  background: #919699;
+  padding: 5px 10px 5px 10px;
+  text-decoration: none;
+  margin-bottom: 10px;
+}
+
+button:hover {
+  background: #424242;
+  text-decoration: none;
+}
+

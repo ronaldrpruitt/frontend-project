@@ -1,0 +1,58 @@
+body {
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  margin: 0px;
+  font-size: 35px;
+}
+
+#form {
+  text-align: center;
+}
+
+#sky {
+  text-align: center;
+  background-color: white;
+  width: 100px;
+}
+
+#skyDescription {
+  text-align: center;
+  width: 100%;
+  color: white;
+}
+
+#temps {
+  color: white;
+  text-align: center;
+  width: 100%;
+  font-size: 200px;
+}
+
+#city {
+  color: white;
+  text-align: center;
+  width: 100%;
+  font-size: 25px;
+}
+
+#cityIcon {
+  text-align: center;
+  width: 100%;
+}
+
+#form label.error {
+  color: red;
+}
+
+#form input.error {
+  border: 1px solid red;
+}

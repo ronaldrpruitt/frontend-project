@@ -1,0 +1,90 @@
+body {
+  color: black;
+  font: 25px Helvetica, Sans-Serif;
+  background-color: white;
+}
+
+h1 {
+  text-align: center;
+}
+
+#pageTitle {
+  text-align: center;
+}
+
+button {
+  background: rgba(255, 255, 255, 0.2);
+  background-repeat: no-repeat;
+  border: none;
+  cursor: pointer;
+  overflow: hidden;
+  outline: none;
+}
+
+button:hover {
+  background-color: grey;
+}
+
+#topMenu {
+  text-align: center;
+  margin-top: inherit;
+}
+
+#break {
+  text-align: center;
+  display: inline-block;
+  margin-right: 15px;
+}
+
+#break button {
+  background-color: Transparent;
+}
+
+#timer button {
+  background-color: Transparent;
+}
+
+#session {
+  margin-top: 50px;
+  font-size: 100px;
+  text-align: center;
+}
+
+#timer {
+  text-align: center;
+  display: inline-block;
+}
+
+#time {
+  text-align: center;
+  display: inline-block;
+}
+
+#breakTime {
+  text-align: center;
+  display: inline-block;
+}
+
+#start-Stop {
+  margin: auto;
+}
+
+#start-reset {
+  margin-top: 70px;
+}
+
+#timer {
+  text-align: center;
+  display: inline-block;
+}
+
+#main {
+  width: 350px;
+  height: 500px;
+  margin: 25px auto;
+  background: #e0e0e0;
+  position: relative;
+  border-style: solid;
+  border-width: 1px;
+  box-shadow: -5px 3px 5px 0px #BABABA;
+}
